@@ -11,3 +11,4 @@ Let’s discuss the approach in detail, covering all the functions and their exp
 2 - First, create an account of our user by calling the account() function after the creation of an account, store all the data into a file using file handling functions.
 3 - Then the user is able to transfer the amount to other users, for that transfermoney() function is called, and for checking the current balance in the account call checkbalance() function.
 Concepts of file handling will be used to store the data of the users, and then read all data from that particular file, store structures in a file because they are easy to write and read.
+![Screenshot 2022-06-05 011927](https://user-images.githubusercontent.com/96800858/172029791-eaa8677f-83d9-41a7-81a4-d1de409220fd.png)
